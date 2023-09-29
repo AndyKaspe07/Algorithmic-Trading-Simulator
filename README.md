@@ -1,2 +1,1 @@
 # Algorithmic Trading Simulator
- 
