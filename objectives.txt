@@ -1,5 +1,4 @@
  - Simulate historical market data for a particular set of stocks using libraries such as pandas and numpy.
- - Implement a portfolio management system that allows you to allocate capital to different assets and track portfolio performance.
  - Implement some trading strategies like bollinger bands and moving averages
  - Backtest my trading strategies against historical data.
 
