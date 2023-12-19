@@ -15,4 +15,4 @@ Therefore, these are buy signals and on the contrary, when the MA50 overtakes MA
 
 ### Improvements
 
-Next time, I will implement a more sophisticated strategy and backetest it to measure its effectiveness. 
+Next time, I will implement a more sophisticated strategy and backtest it to measure its effectiveness. 
