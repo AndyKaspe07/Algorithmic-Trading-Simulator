@@ -1,4 +1,0 @@
- - Simulate historical market data for a particular set of stocks using libraries such as pandas and numpy.
- - Implement some trading strategies like bollinger bands and moving averages
- - Backtest my trading strategies against historical data.
-
